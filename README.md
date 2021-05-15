@@ -1,5 +1,14 @@
-### Hi there 👋
+### Backend Engineer
+* 토이프로젝트 "나홀로 집콕" Application 개발 
+* 앱 런칭 동아리 Make Us에서 "오늘의 밖" Application 개발 
 
+### Interest
+* Spring 
+* Java 
+* Jpa
+* SQL
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=judy5050&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **judy5050/judy5050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
