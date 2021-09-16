@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyojeong%20GitHub&fontSize=90)
 ### Backend Engineer
-* 토이프로젝트 "나홀로 집콕" Application 개발 
+* 토이프로젝트 "나홀로 집콕" Application 개발 (https://github.com/jsungmin6/Home-Alone)
 * 앱 런칭 동아리 Make Us에서 "오늘의 밖" Application 개발 
 
 ### Interest
